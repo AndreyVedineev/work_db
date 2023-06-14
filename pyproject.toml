@@ -8,6 +8,8 @@ packages = [{include = "work_db"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+requests = "^2.31.0"
+fake-user-agent = "^2.1.8"
 
 
 [build-system]
