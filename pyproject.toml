@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "work-db"
+version = "0.1.0"
+description = ""
+authors = ["AndreyVedineev <123489850+AndreyVedineev@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "work_db"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
