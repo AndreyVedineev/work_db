@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+src/references/
 .DS_Store
 src/.DS_Store
 src/hlam.py
